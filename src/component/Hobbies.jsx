@@ -1,13 +1,16 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class Hobbies extends Component {
-    render() {
-        return (
+export default function Hobbies(props) {
+    return (
+        <div className="hobby">
             <div>
-                
+                <h2 className="name">{props.name}</h2>
+                <img className="img" src={props.img} alt="hobby_img" />
             </div>
-        )
-    }
+            <div>
+                <p className="info">{props.description} </p>
+            </div>
+            
+        </div>
+    )
 }
-
-export default Hobbies

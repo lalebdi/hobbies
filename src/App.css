@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+img{
+  width: 640px;
+  height: 425px
+}
+
+body{
+  text-align: center;
+  background-color: #FBE5E7;
+  align-items: center;
+}
+
+.hobby{
+  background-color: #F68F8C;
+  width: 660px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  padding: 15px;
+  margin: 10px;
+}
+
+.name{
+  background-color: #F9B7A9;
+}
+
+.info{
+  background-color: #F9DDD9;
+}
