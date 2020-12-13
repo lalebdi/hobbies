@@ -17,7 +17,7 @@ export function register(config) {
     const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
     if (publicUrl.origin !== window.location.origin) {
 
-      // serve assets; see https://github.com/facebook/create-react-app/issues/2374
+
       return;
     }
 
