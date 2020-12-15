@@ -64,7 +64,6 @@ function registerValidSW(swUrl, config) {
             } else {
 
 
-
               console.log('Content is cached for offline use.');
 
   
