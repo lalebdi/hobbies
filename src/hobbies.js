@@ -11,7 +11,7 @@ const hobbies =[
     },
     {
         name: "Baking",
-        img: "https://images.unsplash.com/photo--f2c3e89de9cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
+        img: "https://images.unsplash.com/photo--?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
         description: "No one can bake when they're angry"
     }
 ];
