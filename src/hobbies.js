@@ -1,7 +1,7 @@
 const hobbies =[
     {
         name: "Running",
-        img: "https://images.unsplash.com/photo--?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2455&q=80",
+        img: "https://images.unsplash.com/--?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2455&q=80",
         description: "Best stress reliever"
     },
     {
