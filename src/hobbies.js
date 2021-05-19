@@ -6,7 +6,7 @@ const hobbies =[
     },
     {
         name: "Cooking",
-        img: "https://..com/--?ixlib=rb-1.2.1&ixid=&auto=format&fit=crop&w=1506&q=80",
+        img: "https://../--?ixlib=rb-1.2.1&ixid=&auto=format&fit=crop&w=1506&q=80",
         description: "Great minds are built on great foods"
     },
     {
