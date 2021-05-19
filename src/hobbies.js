@@ -12,7 +12,7 @@ const hobbies =[
     {
         name: "Baking",
         img: "https://../--?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=&w=1000&q=80",
-        description: "No one can bake when they're angry"
+        description: "No one can bake when they're "
     }
 ];
 
